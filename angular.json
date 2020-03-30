@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "editing-factory": {
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "editing-factory"
+    }
+  },
+  "defaultProject": "editing-factory",
+  "cli": {
+    "analytics": "1cacc1f1-1de6-4035-83c3-7a36ceee0b17"
+  }
 }

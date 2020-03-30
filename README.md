@@ -1,3 +1,9 @@
+# Steps to run the frontend server
+    1. `git clone "copied-repo-name"`
+    2. cd into the folder
+    3. `npm i`
+    4. `ng serve -o`
+
 # EditingFactory
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
